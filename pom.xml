@@ -995,16 +995,4 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <tz.database.version>2017b</tz.database.version>
   </properties>
-    
-  <plugin>
-   <groupId>org.codehaus.mojo</groupId>
-   <artifactId>cobertura-maven-plugin</artifactId>
-   <version>2.7</version>
-   <configuration>
-      <formats>
-         <format>xml</format>
-      </formats>
-   </configuration>
-</plugin>
-
 </project>
